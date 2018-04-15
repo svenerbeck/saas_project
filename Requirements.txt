@@ -1,4 +1,4 @@
-PSEUDOCODE
+# Pseudocode
 
 Memberships
 * User should see link for Basic plan on home page
