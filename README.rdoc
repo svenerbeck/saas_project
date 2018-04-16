@@ -1,3 +1,2 @@
 == README
-
-[Sven Erbeck](http://svenerbeck.com) SAAS Rails Project
+Playround - Ruby Fun Project
