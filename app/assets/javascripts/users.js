@@ -2,8 +2,7 @@
 //Document ready.
 $(document).on('turbolinks:load', function(){
   var theForm = $('#pro_form');
-  // Might be an error form-signup-btn! Check later...
-  var submitBtn = $('#form-submit-btn');
+  var submitBtn = $('#form-signup-btn');
   //Set Stripe public key.
   Stripe.setPublishableKey( $('meta[name="stripe-key"]').attr('content') );
   //When user clicks form submit btn,
